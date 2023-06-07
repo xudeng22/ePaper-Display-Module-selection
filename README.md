@@ -12,7 +12,7 @@
 ### 双色电子墨水原理
 每个微胶囊里含有电泳粒子──带负电荷的白色以及带正电荷的黑色粒子，悬浮于透明液体中。利用正负相吸的原理，当电场接通时，该区块对应的黑或白粒子会移动至微胶囊的顶端，使用者在该区块上，就能看见白色或黑色。
 
-![](ePaper-Display-Module-selection/双色电子墨水原理.gif)
+![]([ePaper-Display-Module-selection/双色电子墨水原理.gif](https://github.com/xudeng22/ePaper-Display-Module-selection/blob/main/%E5%8F%8C%E8%89%B2%E7%94%B5%E5%AD%90%E5%A2%A8%E6%B0%B4%E5%8E%9F%E7%90%86.gif))
 ### 三色电子墨水原理
 
 三色电子墨水系统运作原理与双色系统类似，施加不同的电压，使不同颜色的粒子移动至上层，看见不同的颜色。三色系统在微杯技术(Microcup®  Eink专利)架构下开发而成。
