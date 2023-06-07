@@ -1,6 +1,3 @@
-
-<!-- _coverpage.md -->
-
 # 如何选择一款适合的显示屏？ 
 
 # 显示屏分类
@@ -19,7 +16,7 @@
 ### 三色电子墨水原理
 
 三色电子墨水系统运作原理与双色系统类似，施加不同的电压，使不同颜色的粒子移动至上层，看见不同的颜色。三色系统在微杯技术(Microcup®  Eink专利)架构下开发而成。
-![]([三色电子墨水原理.gif](https://github.com/xudeng22/ePaper-Display-Module-selection/blob/main/%E4%B8%89%E8%89%B2%E7%94%B5%E5%AD%90%E5%A2%A8%E6%B0%B4%E5%8E%9F%E7%90%86.gif))
+![](https://github.com/xudeng22/ePaper-Display-Module-selection/blob/main/%E4%B8%89%E8%89%B2%E7%94%B5%E5%AD%90%E5%A2%A8%E6%B0%B4%E5%8E%9F%E7%90%86.gif)
 ## 电子纸特点
 
 ### 双稳态(Bi-Stability)
