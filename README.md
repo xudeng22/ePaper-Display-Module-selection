@@ -1,62 +1,66 @@
-# 如何选择一款适合的显示屏？ 
 
-# 显示屏分类
+<!-- _coverpage.md -->
+
+# How do I choose the right display module? 
+
+# Display classification
 ![](平板显示分类.png)
 
-# 电子纸(电子墨水屏)
+# ePaper (e-ink screen)
 
-## 电子纸构成元素
-将电子墨水涂布在一层塑料薄膜上，再贴覆上薄膜晶体管(TFT)电路，经由驱动IC控制，形成像素图形，创造了电子纸显示屏(Electronic Paper Displays, EPD)，也常被习称为墨水屏、水墨屏等，具体而微地形容了这是一块用墨水、也像墨水制造出的屏幕。
+## ePaper Module Components
+Electronic ink is coated on a layer of plastic film, and then coated with a thin-film transistor (TFT) circuit, controlled by the driver IC, to form pixel graphics, creating electronic paper displays (EPD), also commonly known as ink screens, ink screens, etc., specifically and subtly described as a screen made of ink and like ink.
+
 
 ![](电子纸组成.jpg)
-### 双色电子墨水原理
-每个微胶囊里含有电泳粒子──带负电荷的白色以及带正电荷的黑色粒子，悬浮于透明液体中。利用正负相吸的原理，当电场接通时，该区块对应的黑或白粒子会移动至微胶囊的顶端，使用者在该区块上，就能看见白色或黑色。
+### Two Particle Ink System
+E Ink’s two particle electronic ink system is made up of millions of tiny microcapsules, each about the diameter of a human hair.  Each microcapsule contains negatively charged white particles and positively charged black particles suspended in a clear fluid.  When a positive or negative electric field is applied, corresponding particles move to the top of the microcapsule where they become visible to the viewer.  This makes the surface appear white or black at that spot.
 
-![双色](双色电子墨水原理.gif)
-### 三色电子墨水原理
+![](双色电子墨水原理.gif)
+### Three Particle Ink System
 
-三色电子墨水系统运作原理与双色系统类似，施加不同的电压，使不同颜色的粒子移动至上层，看见不同的颜色。三色系统在微杯技术(Microcup®  Eink专利)架构下开发而成。
-![三色](三色电子墨水原理.gif)
-## 电子纸特点
+The three-color e-ink system works similarly to the two-color system, applying different voltages to cause particles of different colors to move to the upper layer and see different colors. The tri-color system was developed under the Microcup® Eink patent architecture.
+![](三色电子墨水原理.gif)
+## ePaper Module Benefits
 
-### 双稳态(Bi-Stability)
 
-在电源完全移除或断电的状态下，画面仍可持续显示在屏幕上，不会消失。
-E Ink的电子纸技术通常被称为「双稳态」(Bi-stable)技术。所谓的双稳态，就是即使移除供电来源，电子纸显示屏上的画面仍然能持续显示，不会消失。仅在更换画面时，才需要消耗电量。
-实际应用上，使用电子纸屏幕的电子书在翻页时，才需要消耗电量，在阅读期间则不会消耗任何电量。这正是使用了电子纸作为显示器屏幕，具备长时间待机的原因。
-在大型电子看板的应用上，画面不变换的时候，也是完全不需要消耗电量的，长期下来，与相同尺寸的LCD显示屏看板相比之下，拥有非常优异的节电性能。
+### Bi-Stability
 
-### 反射式技术(Reflective)
+No power is needed to hold an image.
 
-不自发光、没有背光模组
-电子纸显示屏也常被称为「反射式显示屏」，完全不需要背光源，是利用环境光源打在电子纸显示屏幕上，再折射光线至观看者的眼中，与传统纸张、或生活中物体的可视原理无异，所以环境光源越亮，电子纸也越清晰可见。
-而LCD或OLED等显示屏幕，需有背光模组或自发光，才能看到影像。但背光源或自发光的光线会穿透显示屏幕，直射观看者的眼睛，容易导致视觉疲劳、蓝光引起的黄斑部病变等问题。
-不需要背光模组的电子纸显示屏，非常适合长时间阅读，另外，没有背光模组也可节约电力，大幅提升待机时间。
+E Ink's technology is commonly referred to as "bistable". Bistablility refers to the fact that an image on an E Ink screen will be retained even when all power sources are removed. This means that the display is consuming power only when something is changing. For example, when reading on an eReader, power is only needed when turning to a new page but no power is consumed by the display while reading the page. Bistability significantly reduces the power consumption and is a key reason devices using E Ink have such long battery life. The larger ePaper screen, the more electronic power can be saved compared with the same size LCD screen.
 
-### 可耐久性
+### Reflective
 
-基于塑料基板的电子墨水薄膜，实现耐用、耐久的显示屏
-墨水薄膜本身是柔性的，电子墨水薄膜贴覆至TFT基板上，构成了电子纸显示屏。依据不同的应用需求，产品开发设计人员可能使用一般的玻璃基板，或柔性的塑料基板，使用了柔性基板的电子纸显示屏也就是E Ink Mobius柔性电子纸显示屏。
+No backlight is used.
 
-一片13.3寸塑料基板的柔性电子纸显示屏模组，约等同于15张A4纸张的重量、7张A4纸的厚度。这样的柔性显示屏模组，能让终端产品更轻薄，采用13.3寸柔性电子纸的终端产品，仅重349克(12.3盎司)；而使用12.9寸LCD显示屏的产品，却重达713克(25.2盎司)。
+E Ink displays are referred to as "reflective displays." In an LCD, or "emissive display", light from a backlight is projected through the display towards your eyes. In an E Ink display, no backlight is used; rather, ambient light from the environment is reflected from the surface of the display back to your eyes. As with any reflective surface, the more ambient light, the brighter the display looks. This attribute mimics traditional ink and paper, and users of E Ink displays have said that they do not have the same eye fatigue as with LCDs when reading for long periods of time. Eliminating the need for a backlight significantly increases the battery life versus using a traditional LCD.
 
-此外，塑料基板比易碎的玻璃基板显示屏来得更为耐久、不易碎裂，终端产品掉落或遭受撞击时，可减少产品的损坏概率。
+### Rugged
 
-电子纸与其他显示屏技术最大的不同在于，电子纸是反射式、双稳态的显示技术，所以视觉上看起来与传统纸张几乎没有分别，因此能创造护眼、节能的效益。
+Plastic-based films enable durable displays.
+
+E Ink displays are comprised of an ink layer laminated to a plastic film substrate. Depending on the application, product designers may use a traditional glass-based TFT, or utilize our E Ink Mobius plastic-based TFTs.
+
+Plastic-based TFTs allow the end product to be substantially lighter and thinner than products using glass-based TFTs. In addition, glass-based TFTs can be fragile; use of plastic-based TFTs can result in a more rugged end product with less breakage in the electronics due to drops or stress tension.
+
+A 13.3" E Ink displays with a plastic TFT and similar internal components can weigh only 12.3 ounces (349g) as compared to an LCD-based display with smaller screen size 12.9”, which weighs an average of 25.2 ounces (713g).
+
+E Ink also offers a simple segmented product line, E Ink SURF™. In this product line, a drive line is routed to each segment, making for a conformable, rugged, all plastic display, suitable for simple character- or icon-based displays. 
+
 ![](电子纸特性.jpg)
 
-## 电子纸应用场景
+## E-paper application scenarios
 
 ![](电子纸应用场景.jpg)
 
-## 电子纸选型参考
+## E-paper selection reference
 
 ![](电子纸选型.jpg)
 
-## 哪里购买？
+## Where to buy？
 
-需要样品及报价可邮箱联系 542165823@qq.com
-
+Email： 542165823@qq.com or xden@sina.cn
 
 
 
