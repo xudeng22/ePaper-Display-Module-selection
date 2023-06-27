@@ -1,6 +1,5 @@
 <!-- _navbar.md -->
 
-
-* [简体中文](/zh-cn/)
+* [Chinaese](/zh-cn/)
 * [English](/)
 
