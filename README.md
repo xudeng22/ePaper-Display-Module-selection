@@ -1,19 +1,31 @@
 
 <!-- _coverpage.md -->
 
-# How do I choose the right display module? 
+# <font color=#1C86EE>Main Page</font>
+***
+# About idisplaymodule.com
+idisplaymodule is an professional display sharing website.  
+We focus on the development of various display modules, minimize the development time and development cost of customers, and help customers to market the fastest.  
+Tech Support Email: xden@sina.cn
 
-# Display classification
-![](平板显示分类.png)
+# Getting Started
+**ePaper module**
 
-# ePaper (e-ink screen)
+**OLED module**
+
+**UART LCD module （TFT LCD module with UART）**   
+TFT serial screen series is the current display industry front-end technology "configuration technology" based on the development of serial color screen products, users only need to go through a serial port, You can use RS485, RS232 or a simpler 51 MCU UART interface to easily achieve text, pictures, audio and video, curves, two-dimensional code, instrumentation, animation, progress bar, data recording and touch and other functions of the control and data transmission, without the need to take up a lot of controller interface and storage space like the old display screen. At the same time, it also improves the anti-interference ability of the product.  
+
+**Android LCD module （TFT LCD module with Android system）**
+
+# **ePaper (e-ink screen)**
 
 ## ePaper Module Components 
+
 Electronic ink is coated on a layer of plastic film, and then coated with a thin-film transistor (TFT) circuit, controlled by the driver IC, to form pixel graphics, creating electronic paper displays (EPD), also commonly known as ink screens, ink screens, etc., specifically and subtly described as a screen made of ink and like ink.
 
-
 ![](电子纸组成.jpg)
-### Two Particle Ink System <!-- {docsify-ignore} -->
+### Two Particle Ink System <!-- {docsify-ignore} -->  
 E Ink’s two particle electronic ink system is made up of millions of tiny microcapsules, each about the diameter of a human hair.  Each microcapsule contains negatively charged white particles and positively charged black particles suspended in a clear fluid.  When a positive or negative electric field is applied, corresponding particles move to the top of the microcapsule where they become visible to the viewer.  This makes the surface appear white or black at that spot.
 
 ![](双色电子墨水原理.gif)
