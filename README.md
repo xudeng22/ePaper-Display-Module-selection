@@ -68,8 +68,6 @@ E Ink also offers a simple segmented product line, E Ink SURF™. In this produc
 
 ## E-paper selection reference
 
-![](电子纸选型.jpg)
-
 ## Where to buy？
 
 Email： 542165823@qq.com or xden@sina.cn
