@@ -1,8 +1,7 @@
 
 <!-- _coverpage.md -->
 
-# <font color=#1C86EE>Main Page
-</font>
+# <font color=#1C86EE>Main Page</font>
 ***
 # 关于我们
 idisplaymodule.com专注于各种显示模块的开发，最大程度的减少客户产品开发周期，助力客户产品最快的推向市场，目前我们主要产品包括，电子纸模组，OLED模组，TFT串口屏。安卓显示模组。  
